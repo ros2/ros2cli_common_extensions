@@ -2,6 +2,9 @@
 Changelog for package ros2cli_common_extensions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.0 (2022-04-29)
+------------------
+
 0.1.1 (2021-03-18)
 ------------------
 * remove maintainer (`#5 <https://github.com/ros2/ros2cli_common_extensions/issues/5>`_)
