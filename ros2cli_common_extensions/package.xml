@@ -4,11 +4,14 @@
   <name>ros2cli_common_extensions</name>
   <version>0.2.1</version>
   <description>Meta package for ros2cli common extensions</description>
-  <maintainer email="brandon@openrobotics.org">Brandon Ong</maintainer>
+
+  <maintainer email="dharini@openrobotics.org">Dharini Dutia</maintainer>
+
   <license>Apache License 2.0</license>
 
-  <author email="ivanpauno@ekumenlabs.com">Ivan Santiago Paunovic</author>
+  <author email="brandon@openrobotics.org">Brandon Ong</author>
   <author email="clalancette@openrobotics.org">Chris Lalancette</author>
+  <author email="ivanpauno@ekumenlabs.com">Ivan Santiago Paunovic</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
