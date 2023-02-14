@@ -2,6 +2,11 @@
 Changelog for package ros2cli_common_extensions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [rolling] Update maintainers - 2022-11-07 (`#7 <https://github.com/ros2/ros2cli_common_extensions/issues/7>`_)
+* Contributors: Audrow Nash
+
 0.2.1 (2022-09-13)
 ------------------
 * Update maintainers (`#6 <https://github.com/ros2/ros2cli_common_extensions/issues/6>`_)
