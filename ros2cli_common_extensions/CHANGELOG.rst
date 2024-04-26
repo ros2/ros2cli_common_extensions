@@ -2,6 +2,9 @@
 Changelog for package ros2cli_common_extensions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.3.0 (2023-04-28)
 ------------------
 
