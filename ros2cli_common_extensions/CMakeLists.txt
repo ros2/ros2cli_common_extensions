@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.20)
 project(ros2cli_common_extensions)
 
 find_package(ament_cmake REQUIRED)
