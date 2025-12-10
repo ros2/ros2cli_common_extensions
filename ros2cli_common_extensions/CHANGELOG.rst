@@ -2,6 +2,12 @@
 Changelog for package ros2cli_common_extensions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.1 (2025-12-10)
+------------------
+* Add dependency on ros2plugin in package.xml (`#13 <https://github.com/ros2/ros2cli_common_extensions/issues/13>`_) (`#14 <https://github.com/ros2/ros2cli_common_extensions/issues/14>`_)
+* Update CMakeLists.txt (`#11 <https://github.com/ros2/ros2cli_common_extensions/issues/11>`_) (`#12 <https://github.com/ros2/ros2cli_common_extensions/issues/12>`_)
+* Contributors: mergify[bot]
+
 0.4.0 (2024-04-26)
 ------------------
 
