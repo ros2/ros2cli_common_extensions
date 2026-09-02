@@ -24,6 +24,7 @@
   <exec_depend>ros2interface</exec_depend>
   <exec_depend>ros2launch</exec_depend>
   <exec_depend>ros2lifecycle</exec_depend>
+  <exec_depend>ros2log</exec_depend>
   <exec_depend>ros2multicast</exec_depend>
   <exec_depend>ros2node</exec_depend>
   <exec_depend>ros2param</exec_depend>
