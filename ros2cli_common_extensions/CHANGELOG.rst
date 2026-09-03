@@ -2,6 +2,11 @@
 Changelog for package ros2cli_common_extensions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2026-09-03)
+------------------
+* Include ros2log to common extensions (`#17 <https://github.com/ros2/ros2cli_common_extensions/issues/17>`_)
+* Contributors: Alejandro Hernández Cordero
+
 0.6.0 (2026-05-06)
 ------------------
 
